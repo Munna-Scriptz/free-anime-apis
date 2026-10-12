@@ -50,6 +50,7 @@ API Source | Description | Auth | HTTPS | Type | Resources/Packages |
 | [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/) | Modern GraphQL API for anime/manga metadata | No | Yes | Free | - |
 | [Kitsu API](https://kitsu.docs.apiary.io/) | Anime + manga metadata, trending lists, libraries | No | Yes | Free | - |
 | [AniAPI](https://aniapi.com/docs) | Anime info, seasonal lists, filters, NSFW toggle | Yes | Yes | Free | - |
+| [Nekosia API](https://nekosia.cat/documentation) | Random catgirl images with metadata, dominant colors, compressed versions, duplicate prevention, and its own booru | No | Yes | Free | - |
 
 ---
 
